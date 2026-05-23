@@ -133,8 +133,8 @@ export default function LandingPage() {
 
   <div id="contact" data-section="contact">
       <ContactSplitForm
-      title="Get Your Free Quote Today"
-      description="Contact us for expert tree care."
+      title="Contact  Us at"
+      description="+(936) 333-8993 "
       inputs={[{ name: "name", type: "text", placeholder: "Name" }, { name: "email", type: "email", placeholder: "Email" }]}
       onSubmit={(data) => console.log(data)}
       useInvertedBackground={false}
