@@ -77,12 +77,17 @@ export default function LandingPage() {
       title="Expert Solutions"
       description="Comprehensive services backed by certification."
       accordionItems={[]}
+      videoSrc="http://img.b2bpic.net/free-photo/view-backyard-garden-digital-art-style_23-2151488214.jpg"
+      mediaAnimation="none"
+      useInvertedBackground={false}
     />
   </div>
 
   <div id="metrics" data-section="metrics">
       <MetricCardEleven
       animationType="slide-up"
+      textboxLayout="default"
+      useInvertedBackground={false}
       metrics={[
         { id: "m1", value: "30+", title: "Years Experience", description: "Serving Houston.", imageSrc: "http://img.b2bpic.net/free-photo/suburban-housing_53876-14307.jpg" }
       ]}
@@ -99,6 +104,7 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       title="Our Services"
+      description="Professional tree care services tailored to your needs."
     />
   </div>
 
@@ -108,6 +114,8 @@ export default function LandingPage() {
       description="Trusted by homeowners."
       testimonials={[]}
       buttons={[{ text: "Get a Quote", onClick: handleContactClick }]}
+      textboxLayout="default"
+      useInvertedBackground={false}
     />
   </div>
 
@@ -115,8 +123,11 @@ export default function LandingPage() {
       <FaqBase
       faqs={[]}
       title="Common Questions"
+      description="Everything you need to know about our services."
       faqsAnimation="slide-up"
       buttons={[{ text: "Need more info?", onClick: handleContactClick }]}
+      textboxLayout="default"
+      useInvertedBackground={false}
     />
   </div>
 
@@ -126,11 +137,14 @@ export default function LandingPage() {
       description="Contact us for expert tree care."
       inputs={[{ name: "name", type: "text", placeholder: "Name" }, { name: "email", type: "email", placeholder: "Email" }]}
       onSubmit={(data) => console.log(data)}
+      useInvertedBackground={false}
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterSimple
+      bottomLeftText="© 2024 Gomez Trees"
+      bottomRightText="All Rights Reserved"
       columns={[
         { title: "Support", items: [{ label: "FAQ", onClick: handleSupportClick }, { label: "Contact", onClick: handleContactClick }] }
       ]}
