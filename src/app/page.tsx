@@ -47,7 +47,7 @@ export default function LandingPage() {
         { name: "Testimonials", id: "testimonials" },
         { name: "Contact", id: "contact" },
       ]}
-      brandName="Gomez Trees"
+      brandName="Gomez Landscaping"
     />
   </div>
 
@@ -56,8 +56,8 @@ export default function LandingPage() {
       background={{ variant: "gradient-bars" }}
       title="Houston's Trusted Tree Care Experts"
       description="Over 30 years of family-owned excellence in tree maintenance, landscaping, and emergency care. Get a free quote for your property today."
-      leftCarouselItems={[{ imageSrc: "http://img.b2bpic.net/free-photo/portrait-lumberjack-woodcutter-standing-by-tree-trunk-woods-holding-chainsaw_342744-251.jpg?_wi=1" }]}
-      rightCarouselItems={[{ imageSrc: "http://img.b2bpic.net/free-photo/view-backyard-garden-digital-art-style_23-2151488214.jpg?_wi=1" }]}
+      leftCarouselItems={[{ imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E8uwjSeVD67urKBXWzXPEINUzg/uploaded-1779573529219-291cw89w.png" }]}
+      rightCarouselItems={[{ imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E8uwjSeVD67urKBXWzXPEINUzg/uploaded-1779573602057-77wzt26k.png" }]}
       buttons={[{ text: "Get Free Quote", onClick: handleContactClick }]}
     />
   </div>
