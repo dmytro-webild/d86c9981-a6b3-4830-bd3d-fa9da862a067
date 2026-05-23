@@ -6,12 +6,13 @@ import "@/lib/gsap-setup";
 import { ServiceWrapper } from "@/components/ServiceWrapper";
 import { getVisualEditScript } from "@/utils/visual-edit-script";
 import { Archivo } from "next/font/google";
+import Tag from "@/tag/Tag";
 
 
 
 export const metadata: Metadata = {
-  title: "Gomez Landscaping - Houston Tree Service Experts",
-  description: "Professional tree services in Houston. Over 30 years of experience in tree trimming, removal, and emergency landscape maintenance. Free quotes.",
+  title: "Gomez Landscaping - Houston Service Experts",
+  description: "Professional  services in Houston. Over 30 years of experience in landscape maintenance. Free quotes.",
   openGraph: {
     "title": "Gomez Trees & Landscaping - Houston",
     "description": "Your trusted local tree and landscaping professionals.",
@@ -41,7 +42,8 @@ export default function RootLayout({
                   __html: `${getVisualEditScript()}`
               }}
           />
-        </body>
+        <Tag />
+</body>
       </ServiceWrapper>
     </html>
   );
