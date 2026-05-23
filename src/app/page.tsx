@@ -65,11 +65,11 @@ export default function LandingPage() {
       description="Over 30 years of family-owned excellence in tree maintenance, landscaping, and emergency care. Get a free quote for your property today."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-lumberjack-woodcutter-standing-by-tree-trunk-woods-holding-chainsaw_342744-251.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-lumberjack-woodcutter-standing-by-tree-trunk-woods-holding-chainsaw_342744-251.jpg?_wi=1",
           imageAlt: "Professional tree trimming",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/man-trimming-bough-brush-guy-works-backyard_1157-41449.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-trimming-bough-brush-guy-works-backyard_1157-41449.jpg?_wi=1",
           imageAlt: "Tree removal services",
         },
         {
@@ -171,7 +171,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/carpenter-working-sawmill-wood-manufacture_1303-22881.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/carpenter-working-sawmill-wood-manufacture_1303-22881.jpg?_wi=1"
       imageAlt="Our arborist team"
     />
   </div>
@@ -203,7 +203,7 @@ export default function LandingPage() {
           content: "Top-quality maintenance for lush, green, healthy turf all year.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-cutting-plant-leaves_23-2148905278.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-cutting-plant-leaves_23-2148905278.jpg?_wi=1"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -309,7 +309,7 @@ export default function LandingPage() {
           quote: "Reliable and fast tree service. My lawn looks pristine!",
           tag: "Recommended",
           avatarSrc: "http://img.b2bpic.net/free-photo/stylish-woman-wearing-yellow-bandana_273609-13336.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-lumberjack-woodcutter-standing-by-tree-trunk-woods-holding-chainsaw_342744-251.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-lumberjack-woodcutter-standing-by-tree-trunk-woods-holding-chainsaw_342744-251.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -320,7 +320,7 @@ export default function LandingPage() {
           quote: "Professional team, always on time. Exceptional results.",
           tag: "Expert",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-walking-near-office-building-talking-mobile-phone_23-2147972945.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-trimming-bough-brush-guy-works-backyard_1157-41449.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-trimming-bough-brush-guy-works-backyard_1157-41449.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -331,7 +331,7 @@ export default function LandingPage() {
           quote: "Expert pruning saved our aging oak trees.",
           tag: "Satisfied",
           avatarSrc: "http://img.b2bpic.net/free-photo/elderly-couples-playing-eating-some-fruit_1150-7847.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/carpenter-working-sawmill-wood-manufacture_1303-22881.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/carpenter-working-sawmill-wood-manufacture_1303-22881.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -342,7 +342,7 @@ export default function LandingPage() {
           quote: "Excellent emergency response during the storms.",
           tag: "Reliable",
           avatarSrc: "http://img.b2bpic.net/free-photo/greenhouse-owner-presenting-flowers-options-potential-customer-retailer-using-laptop_158595-7057.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cutting-plant-leaves_23-2148905278.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cutting-plant-leaves_23-2148905278.jpg?_wi=2",
           imageAlt: "happy home owner portrait",
         },
         {
@@ -353,7 +353,7 @@ export default function LandingPage() {
           quote: "Great attention to detail. Cleanup was perfect.",
           tag: "Quality",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-young-handsome-man-sitting-cafe-table_1262-975.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/climber-looking-his-carabiners_23-2147665142.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/climber-looking-his-carabiners_23-2147665142.jpg?_wi=1",
           imageAlt: "happy home owner portrait",
         },
       ]}
@@ -423,7 +423,7 @@ export default function LandingPage() {
         name: "message",
         placeholder: "Describe your tree or landscaping project...",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/climber-looking-his-carabiners_23-2147665142.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/climber-looking-his-carabiners_23-2147665142.jpg?_wi=2"
     />
   </div>
 
