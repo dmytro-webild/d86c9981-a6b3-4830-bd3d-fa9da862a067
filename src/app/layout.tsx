@@ -10,8 +10,8 @@ import { Archivo } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Gomez Trees & Landscaping - Houston Tree Service Experts',
-  description: 'Professional tree services in Houston. Over 30 years of experience in tree trimming, removal, and emergency landscape maintenance. Free quotes.',
+  title: "Gomez Landscaping - Houston Tree Service Experts",
+  description: "Professional tree services in Houston. Over 30 years of experience in tree trimming, removal, and emergency landscape maintenance. Free quotes.",
   openGraph: {
     "title": "Gomez Trees & Landscaping - Houston",
     "description": "Your trusted local tree and landscaping professionals.",
