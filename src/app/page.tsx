@@ -57,7 +57,7 @@ export default function LandingPage() {
       title="Houston's Trusted Tree Care Experts"
       description="Over 30 years of family-owned excellence in tree maintenance, landscaping, and emergency care. Get a free quote for your property today."
       leftCarouselItems={[{ imageSrc: "http://img.b2bpic.net/free-photo/portrait-lumberjack-woodcutter-standing-by-tree-trunk-woods-holding-chainsaw_342744-251.jpg?_wi=1" }]}
-      rightCarouselItems={[{ imageSrc: "http://img.b2bpic.net/free-photo/view-backyard-garden-digital-art-style_23-2151488214.jpg" }]}
+      rightCarouselItems={[{ imageSrc: "http://img.b2bpic.net/free-photo/view-backyard-garden-digital-art-style_23-2151488214.jpg?_wi=1" }]}
       buttons={[{ text: "Get Free Quote", onClick: handleContactClick }]}
     />
   </div>
@@ -77,7 +77,7 @@ export default function LandingPage() {
       title="Expert Solutions"
       description="Comprehensive services backed by certification."
       accordionItems={[]}
-      videoSrc="http://img.b2bpic.net/free-photo/view-backyard-garden-digital-art-style_23-2151488214.jpg"
+      videoSrc="http://img.b2bpic.net/free-photo/view-backyard-garden-digital-art-style_23-2151488214.jpg?_wi=2"
       mediaAnimation="none"
       useInvertedBackground={false}
     />
