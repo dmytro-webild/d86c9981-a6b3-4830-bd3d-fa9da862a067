@@ -56,7 +56,7 @@ export default function LandingPage() {
       background={{ variant: "gradient-bars" }}
       title="Houston's Trusted Tree Care Experts"
       description="Over 30 years of family-owned excellence in tree maintenance, landscaping, and emergency care. Get a free quote for your property today."
-      leftCarouselItems={[{ imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E8uwjSeVD67urKBXWzXPEINUzg/uploaded-1779573529219-291cw89w.png" }]}
+      leftCarouselItems={[{ imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E8uwjSeVD67urKBXWzXPEINUzg/uploaded-1779580805791-6w1nduwo.png" }]}
       rightCarouselItems={[{ imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E8uwjSeVD67urKBXWzXPEINUzg/uploaded-1779573602057-77wzt26k.png" }]}
       buttons={[{ text: "Get Free Quote", onClick: handleContactClick }]}
     />
@@ -68,7 +68,7 @@ export default function LandingPage() {
       title="A Legacy of Professional Care"
       description="For over 30 years, Gomez Trees & Landscaping has been serving the Houston community."
       buttons={[{ text: "Learn More", onClick: handleContactClick }]}
-      imageSrc="http://img.b2bpic.net/free-photo/carpenter-working-sawmill-wood-manufacture_1303-22881.jpg?_wi=1"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3E8uwjSeVD67urKBXWzXPEINUzg/uploaded-1779580796452-1jk6e51v.png"
     />
   </div>
 
